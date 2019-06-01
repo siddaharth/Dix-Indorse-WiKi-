@@ -1,3 +1,3 @@
-# TrueChain Wiki
+.
 
  
