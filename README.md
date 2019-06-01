@@ -2,7 +2,7 @@
 
 ## Dasco Network :  Ultra Hybrid Consensus Public chain with Adaptive State Sharding
 ## WORK IN PROGRESS
-![avatar](https://github.com/truechain/wiki/blob/master/img/architecture.jpg)
+
 
 ## RoadMap
 * English RoadMap [Roadmap.md](https://github.com/truechain/wiki/blob/master/roadmap-en/roadmap.md) 
