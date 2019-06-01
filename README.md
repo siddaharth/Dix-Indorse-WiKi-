@@ -1,6 +1,6 @@
-# TrueChain Wiki
+# Dasco Network  Wiki
 
-## TRUECHAIN: HIGHLY PERFORMANT DECENTRALIZED PUBLIC LEDGER FIRST DRAFT
+## Dasco Network :  Ultra Hybrid Consensus Public chain with Adaptive State Sharding
 ## WORK IN PROGRESS
 ![avatar](https://github.com/truechain/wiki/blob/master/img/architecture.jpg)
 
