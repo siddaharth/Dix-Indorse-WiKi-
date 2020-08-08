@@ -1,6 +1,6 @@
-# Dasco Network  Wiki
+# Dix Indorse  Wiki
 
-## Dasco Network :  Ultra Hybrid Consensus Public chain with Adaptive State Sharding
+## Dix Indorse :  Ultra Hybrid Consensus Public chain with Adaptive State Sharding
 ## WORK IN PROGRESS
 
 
