@@ -1,6 +1,7 @@
 # Dix Indorse  Wiki
 
-## Dix Indorse :  Ultra Hybrid Consensus Public chain with Adaptive State Sharding
+## Dix Indorse :  Dix An Algorithmic Credit Risk Protocol
+built to enable the creation of decentralized lending markets and stacking earn that interoperate with real world financial data
 ## WORK IN PROGRESS
 
 
