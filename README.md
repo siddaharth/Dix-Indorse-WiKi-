@@ -6,12 +6,12 @@ built to enable the creation of decentralized lending markets and stacking earn 
 
 
 ## RoadMap
-* English RoadMap [Roadmap.md](https://github.com/truechain/wiki/blob/master/roadmap-en/roadmap.md) 
+* English RoadMap [Roadmap.md](https://github.com/dixindorse/tt/blob/master/Dix-Indorse%2BV1.0%2BWhitepaper.pdf) 
 
 
 ## docs
-* English wiki: [@Archit](https://github.com/truechain/wiki/blob/master/docs-en/index.rst)
-* Chinese wiki: [@happyfromtbq](https://github.com/truechain/wiki/blob/master/docs-cn/index.rst)
+* English wiki: [@Archit](https://github.com/dixindorse/tt/blob/master/Dix-Indorse%2BV1.0%2BWhitepaper.pdf)
+* Chinese wiki: [@happyfromtbq](h
 
 
 
